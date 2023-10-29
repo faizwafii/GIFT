@@ -1319,3 +1319,7 @@ body {
   -webkit-animation-play-state: paused !important;
           animation-play-state: paused !important;
 }/*# sourceMappingURL=main.css.map */
+
+#myAudio {
+  display: none;
+}
